@@ -7,9 +7,9 @@
 
 1. Copy repository content and switch to Main branch
 2. Open your favourite console tool (e.g. cmd, terminal, bash) and got to directory where you downloaded repository content
-3. execute command 'dotnet run --project SourceCode/DevTestAPI/DevTestAPI.csproj'
+3. execute command `dotnet run --project SourceCode/DevTestAPI/DevTestAPI.csproj`
 4. If there was no error at the compilation stage, API should be ready to use now. You can test it by making a GET request to the following endpoint
-    https://localhost:7103/api/hacker-news?topStoriesCount=<n> e.g. https://localhost:7103/api/hacker-news?topStoriesCount=10
+    `https://localhost:7103/api/hacker-news?topStoriesCount=<n>` e.g. `https://localhost:7103/api/hacker-news?topStoriesCount=10`
 
     You can use swagger UI as well: https://localhost:7103/swagger
 
