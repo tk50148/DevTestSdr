@@ -3,7 +3,7 @@
 ## How to run
 
 ### Requirements
-- DotNet SDK 6.0
+- DotNet Core SDK 6.0
 
 1. Copy repository content and switch to Main branch
 2. Open your favourite console tool (e.g. cmd, terminal, bash) and got to directory where you downloaded repository content
